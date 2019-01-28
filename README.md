@@ -1,7 +1,7 @@
 # Build
 
 ```sh
-docker build -t samba-dc .
+docker build -t alt-samba-dc .
 ```
 
 # Run
